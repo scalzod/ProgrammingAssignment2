@@ -42,3 +42,6 @@ cacheSolve <- function(x, ...) {
   x$setinverse(i)
   i
 }
+
+#### To paraphrase D. Knuth:
+#### "Beware of bugs in the above code; I have only 'typed it', not tried it."
